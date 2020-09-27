@@ -23,6 +23,11 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 <img align="left" alt="Java" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F3%2F30%2FJava_programming_language_logo.svg%2F1200px-Java_programming_language_logo.svg.png&f=1&nofb=1">
+<img align="left" alt="Python" width="26px" src="https://magazines-static.raspberrypi.org/magpi/legacy-assets/2015/10/Python-logo-notext.svg_.png">
+<img align="left" alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png">
+<img align="left" alt="SQL" width="26px" src="https://maxcdn.icons8.com/Share/icon/Logos/css31600.png">
+
+<img align="left" alt="SQL" width="26px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png">
 
 <br />
 <br />
